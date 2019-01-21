@@ -1,0 +1,17 @@
+commit 384637ac417d1233b30395d6eb20d11e3ca41f7a
+Author: Juanjo <jjacosta@proenium.com>
+Date:   Mon Jan 21 15:24:21 2019 +0100
+
+    Se añadio clase para como va la cosa
+
+commit b0792c2184cbadc8d5dd9437457bc894316d5882
+Author: Juanjo <jjacosta@proenium.com>
+Date:   Mon Jan 21 15:09:04 2019 +0100
+
+    Añadido como va la cosa
+
+commit 29bf66ada5f5ced0e326bafa22cbee5827018f30
+Author: Juanjo <jjacosta@proenium.com>
+Date:   Mon Jan 21 15:03:48 2019 +0100
+
+    Iniciamos
