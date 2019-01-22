@@ -1,7 +1,15 @@
 
 .center{
+    padding-bottom: 30px;
+    padding-top: 30px;
     text-align: center;
+}
+
+.logo{
     background-color: gainsboro;
+}
+.hola_mundo{
+    background-color: aquamarine;
 }
 
 .red{
