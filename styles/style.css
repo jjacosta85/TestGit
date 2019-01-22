@@ -12,6 +12,10 @@
     background-color: aquamarine;
 }
 
+.cvt{
+    background-color: royalblue;
+}
+
 .red{
     color: red;
     letter-spacing: 5px;
@@ -19,7 +23,7 @@
 
 .cvc{
     padding-left: 15px;
-    color: green;
+    color: red;
 }
 
 .t2{
